@@ -2,7 +2,6 @@ Ngontrak is a simple mobile application that user can see list of rented house (
 <br>
 <br>
 Ngontrak User Interface :
-<br>
 <ul>
   <li><b>Onboarding Page</b></li>
   <img src="https://github.com/micheal011/ngontrak/assets/97986691/1e99c476-d51b-4fa9-b19a-9cefea32bafc" height="500">
